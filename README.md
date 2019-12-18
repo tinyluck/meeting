@@ -1,6 +1,6 @@
 # 开源会议室
 
-开源会议室预约小程序+Django服务端后台
+开源会议室预约小程序+Django服务端后台+数据库Mysql，Redis
 
 ## 扫码体验
 
@@ -19,7 +19,7 @@
 
 ### 服务端配置
 
-#### 创建数据库
+#### 创建Mysql数据库
 
     CREATE SCHEMA `meeting` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci ;
 
